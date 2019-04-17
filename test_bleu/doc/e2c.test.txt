@@ -1,0 +1,85 @@
+New carmaker on the block: Byton’s CEO on China’s car of the future
+March 2019
+
+Carsten Breitfeld, an industry veteran turned disruptor, explains how his Chinese-conceived, globally oriented start-up is tuned for the emerging mobility transformation. 
+
+Byton aims to transform the way consumers experience mobility—while simultaneously upending the way car companies do business. The Nanjing-headquartered automaker, cofounded in 2016 by Carsten Breitfeld and Daniel Kirchert (industry veterans of BMW and Infiniti, respectively), recently announced plans to introduce an SUV launched with “level 3” autonomy (meaning conditional automation based on specific operating conditions), followed swiftly by a sedan and a seven-passenger vehicle that will be launched with level-4 autonomy (meaning it can drive safely without human intervention). The SUV will debut in China toward the end of 2019, with US and European launches to follow in mid-2020. 
+
+Cofounder and CEO Carsten Breitfeld recently sat down with McKinsey’s Allen Webb to explain Byton’s vision, the advantages of operating in China, and the characteristics of the new mobility ecosystem that will emerge worldwide.
+
+The Quarterly: Byton is sometimes seen as a lot like Tesla—a company seeking to enter the market from scratch with a luxury electric vehicle. What do you think of the comparison?
+
+Carsten Breitfeld: It’s not precise at all. Byton was created to be a provider of mobility. Earnings will come from selling mobility, not just selling cars. Byton is about electric cars that are smart, connected, and autonomous. The car will become a platform—a smart device on wheels. This platform can be used to sell digital content generated from data, and those products will be designed for shared mobility. 
+ 
+ Byton’s SUV is set to debut in China by the end of the year, with US and European launches to follow in mid-2020.
+
+ The Quarterly: You spent two decades at BMW before leaving to found Byton in 2016. Where have industry developments brought us since you started?
+
+ Carsten Breitfeld: We are coming to a tipping point. It’s not only the products that will change but also the business models. The traditional car companies will build electric cars, and great electric cars, without any doubt. But when it comes to rethinking the user experience for smart cars, they have it much harder. The culture and mind-set you need is more about consumer electronics and software and the internet and less about the car industry. And the biggest hurdle is to implement new business models. It will be difficult, if not impossible, to change the business model completely in an organization of 100,000 or 300,000 people who are trained to develop a car, build it, and sell it. This is the reason I eventually decided to take the chance to build something new. Leaving a great company like BMW was not an easy decision. 
+
+ The Quarterly: How does being a Chinese company affect your business model?
+
+ The culture and mind-set you need is more about consumer electronics and software and the internet and less about the car industry.
+
+ Carsten Breitfeld: China is the place where the future of mobility will be shaped, developed, and designed, for four reasons. One, it’s the biggest market in the world, with about 30 million yearly car sales right now. Two, everything in China is developing at high speed, in every sense. Three, there’s a lot of money, and its investors are prepared to invest not just in early-stage companies but also in teams and ideas. We raised $240 million in A-round funding from Chinese investors, based just on a design we had as a team and on a business plan. This would never happen in Europe, and rarely in the United States. The fourth factor is the strong political will to make this happen. The Chinese government wants future transportation to be electric and smart. And when it comes to smart transportation, you need a strong 5G network and infrastructure. 
+
+ The Quarterly: You cofounded the company only three years ago and are slated to launch your first vehicle, an SUV, next year in China. By car-development standards, that seems pretty fast.
+
+ Carsten Breitfeld: It is fast. But to give you an example, my last job at BMW was to be responsible for the BMW i8 program. BMWi was really a start-up within the company, and we went from idea to market launch in 38 months. That’s the time it takes to develop a car. The rest of the time in big companies is lost, spent in long discussions and in very long decision processes where you have to talk to hundreds of people and go to committees, committees, and committees. Not so at Byton.
+
+ The Quarterly: Why start with an SUV?
+
+ Carsten Breitfeld: That was an easy decision. The SUV is the fastest-growing and most profitable vehicle segment in essentially every market. The technical platform for this one will be the platform for our sedan, which will come second, and our seven-seater. We will launch the same cars in the United States and Europe starting around the middle of 2020.
+
+ The Quarterly: Those are crowded markets. How will Byton stand out? 
+
+ Carsten Breitfeld: We want to create enjoyable time on the move. In big cities, from Beijing to Los Angeles, most people are sitting behind the steering wheel, stuck in a traffic jam, nervous, angry, playing with their smartphones. They are not happy. What if we could change this? What if the car drives autonomously, and we create a space of well-being where you can be connected, work, be entertained, shop, whatever. 
+
+ Using a tablet in the middle of the steering wheel, you can do a PowerPoint presentation, browse the internet, make video calls—whatever you like. The interior is like being in your living room.
+
+ The Quarterly: So the model starts with . . .? 
+
+ Carsten Breitfeld: It starts with a concept. In a pure electric car with pure electric architecture, you can shorten the front overhang, because you don’t need it for the combustion engine. And then there’s the HVAC [heating, ventilation, and air conditioning] system, which is the reason all those cars have a center console. We moved the HVAC system in front of the firewall, where that bulky engine used to be. This completely frees up space under the dashboard. We’ve created a much bigger interior space.
+
+ Moreover, our front seats can be rotated. This makes for a more comfortable seating position and opens the view for rear-seat passengers to see the big screen we use in front. Using a tablet in the middle of the steering wheel, you can do a PowerPoint presentation, browse the internet, make video calls—whatever you like. The interior is like being in your living room.
+
+ Electric vehicles allow for dramatic redesigns to a vehicle’s interior, including more space, more comfortable seating positions, and a larger screen displayed across the dashboard.
+
+ The Quarterly: What if the user doesn’t own the car? That could well be the case, couldn’t it, if we share autonomous electric cars?
+
+ Carsten Breitfeld: Yes. We believe there’s a place for individual mobility, but more as a premium approach. Shared mobility will be so cheap and so easy that for most people it won’t make sense to own. So we’ve made breakthroughs to make the shared experience feel individualized as well.
+
+ Byton will have a facial-recognition camera. When you enter a Byton, the camera will recognize you and will download your complete profile from the Byton cloud. Your phone will be connected, your music will be there, your videos will be there, your menu structure, everything will be yours. If you leave a Byton in Toronto tonight and fly to San Francisco or Beijing, where another Byton picks you up in the morning, that one will download your last configuration in Toronto and the car will feel like yours. The device itself is like an empty smartphone. It can do everything, but only if you put content in. Byton will be the orchestrator, the manager, of an ecosystem of content.
+
+ The Quarterly: Let’s shift gears and talk about infrastructure. What advances are needed for this emerging mobility ecosystem? And which markets are furthest along?
+
+ Carsten Breitfeld: We need two types of infrastructure. One is a charging infrastructure for electric cars. A lot is being done in China in this area; many Chinese cities decide to build charging stations and just do it. The speed from decision to execution on public charging stations is quite fast. Home charging in China is a challenge, but any new construction now has an obligation to connect every parking space to the electric grid. Existing homes will take more time to retrofit. This is difficult in China, with its density of population, but it’s going to happen. If you talk charging infrastructure in the United States, it’s mainly California. And it’s not so great right now in Europe. Once the products are out in the market, however, there will be a pull effect, and the infrastructure will fall into place.
+
+ The second type of infrastructure is about being connected, which is a bit more difficult. You need the car to have high-speed connectivity. And you need a communication network around autonomy. That means the coverage and reliability of a 5G network. Here, too, I think China is leading in terms of implementing 5G technology. As for Europe, we’ll see how it develops. People there are starting to think about it.
+  
+  Byton is making breakthroughs to store users’ preferences and profiles on the cloud, which will enable them to keep their own, personalized settings even when they switch vehicles.
+
+  The Quarterly: How about the differences between cities and other areas. Is the mobility revolution first and foremost an urban revolution?
+
+  Carsten Breitfeld: Definitely. Densely populated areas will be key. Los Angeles, Beijing, Shanghai, Chongqing, and such cities is where it will happen.
+
+  The Quarterly: Major cities typically have mass transit. Is that a competing solution, or does it complement what you are doing?
+
+  Carsten Breitfeld: They go hand in hand. For the last 130 years, cars have been beneficial for people who want to have individual mobility. But they have been a burden for society. They polluted, they took away space, they created congestion, and they produced accidents that have killed millions of people. The new technology coming up will add value to society. It will be clean. It will reduce the number of traffic accidents. It will reduce the number of cars and therefore reduce the space we need for parking. 
+
+  The new technology coming up will add value to society. It will be clean. It will reduce the number of traffic accidents. It will reduce the number of cars and therefore reduce the space we need for parking.
+
+  The Quarterly: When will we see these developments become mainstream? 
+
+  Carsten Breitfeld: That’s hard to say, because there are three components to the answer. First, technically, we are not so far away. A level-4 car, approaching full autonomy, can be ready in 2020 or 2021. Second, demand-wise, people need to accept the shared approach. Since people share rides on Uber and Lyft now, that may be coming, too. Third is the leading role of governments and politics. There are so many stakeholders. There’s the company like ours providing product. There’s the high-speed communication company. There are legal frameworks. And then there’s setting up smart cities, or at least parts of cities that are considered smart.
+
+  The third component will be the biggest challenge. You know, if you spent a lot of money and perhaps used Google’s components, you could build a car today that came very close to level-4 autonomy. But imagine if you put this car into the middle of Beijing. It would never move! Everyone will be driving like crazy around it. But if 10 percent of the cars around it are autonomous, connected, and communicating with each other, you’d have a good start. Twenty-five percent would be better; 50 percent would be great.
+
+  The best approach, I think, is to say, “OK, let’s start from scratch. Let’s build complete cities,” or, “Let’s define some areas for shared mobility.” And then we can define the clear preconditions for companies to participate. That is what is going on in China to drive this technology and its infrastructure.
+
+  The Quarterly: What opportunities will the future hold for automotive natives, as well as those not traditionally associated with the automotive industry? 
+
+  Carsten Breitfeld: The value chain of supplying mechanical parts, power trains, and so on will still have a place in the future, although those things will become more and more of a commodity. But when it comes to the smart part of the car, that’s a very interesting area. We’re developing big screens, high-speed connectivity, antenna modules. There will be a need for suppliers and partners to step in. Good businesses will be created by the establishment of the ecosystem around this smart device on wheels.
+
+  ABOUT THE AUTHORS
+  Carsten Breitfeld is the CEO and a cofounder of Byton. This interview was conducted by Allen Webb, editor in chief of McKinsey Quarterly, who is based in McKinsey’s Seattle office.
